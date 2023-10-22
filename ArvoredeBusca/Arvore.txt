@@ -1,0 +1,3 @@
+        ARVORE BINARIA DE BUSCA(ABB)
+
+-os valores abaixo da sub-árvore da esquerda são sempre menores que a raiz, e as da direira o inverso;

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661568373 source:/home/rj/Documentos/Estrutura-de-dados/Lista/exercicio1/queue.c
+	"queue.h"
+
+1661559409 /home/rj/Documentos/Estrutura-de-dados/Lista/exercicio1/queue.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
